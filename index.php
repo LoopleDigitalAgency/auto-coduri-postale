@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Auto Coduri Postale
-Plugin URI: https://www.loople.ro
+Plugin URI: https://github.com/LoopleDigitalAgency/auto-coduri-postale
 Description: Completează automat codul poștal pe pagina de checkout WooCommerce folosind API-ul Nominatim.
 Version: 1.0
 Author: Loople Romania
