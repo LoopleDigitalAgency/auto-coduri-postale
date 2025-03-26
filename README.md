@@ -7,6 +7,10 @@
 
 **Auto Cod Postal** este un plugin care completează automat câmpul de **cod poștal** pe pagina de **checkout WooCommerce** pe baza adresei și orașului introduse de utilizatori. Pluginul utilizează **API-ul Nominatim** (OpenStreetMap) pentru a obține și completa codul poștal, făcând procesul de cumpărare mai rapid și mai eficient.
 
+## Descarcare
+[![Descarcare](https://img.shields.io/badge/Descarcare-8A2BE2)](https://www.loople.ro/wp-content/uploads/2025/03/auto-coduri-postale.zip)
+
+
 ## Caracteristici
 
 - Completare automată a codului poștal în funcție de adresa și orașul introdus de utilizator.
