@@ -7,7 +7,7 @@ Author: Loople
 Author URI: https://loople.ro
 License: GPLv2 or later
 Text Domain: auto-coduri-postale
-Stable tag: 1.1
+Stable tag: 1.2
 
 == Descriere ==
 **Auto Coduri Postale** este un plugin care completează automat câmpul de cod poștal pe pagina de checkout WooCommerce pe baza adresei și orașului introduse de utilizatori. Pluginul utilizează API-ul Nominatim (OpenStreetMap) pentru a obține și completa codul poștal, făcând procesul de cumpărare mai rapid și mai eficient.
